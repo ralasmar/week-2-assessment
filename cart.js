@@ -96,9 +96,9 @@ console.log(calcFinalPrice(100, 20, .07))
 */
 
 //CODE HERE
-const customer = [
-    fullName = `Emma Nelson`,
-    email = `emmanel@gmail.com`,
-    cardNumber = `1543 3656 3767 5276`,
-    phoneNumber = `913-123-4567`,
-]
+const customer = {
+    fullName: `Emma Nelson`,
+    email: `emmanel@gmail.com`,
+    cardNumber:  `1543 3656 3767 5276`,
+    phoneNumber: `913-123-4567`,
+};
